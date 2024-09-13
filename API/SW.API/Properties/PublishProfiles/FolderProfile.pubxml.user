@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\publish\</_PublishTargetUrl>
+    <History>True|2024-06-07T07:56:19.4808929Z||;True|2024-06-06T00:54:40.8634226+08:00||;True|2024-06-02T02:20:46.3575421+08:00||;True|2024-06-02T02:19:36.7905859+08:00||;True|2024-06-02T02:00:57.0319530+08:00||;True|2024-06-02T01:04:59.8346988+08:00||;True|2024-06-01T14:22:03.8854995+08:00||;True|2024-06-01T14:21:54.2642836+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

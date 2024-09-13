@@ -1,0 +1,30 @@
+C:\Olafv2\IC Portfolio Management\SW.Service\obj\Debug\net8.0\SW.Service.csproj.AssemblyReference.cache
+C:\Olafv2\IC Portfolio Management\SW.Service\obj\Debug\net8.0\SW.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olafv2\IC Portfolio Management\SW.Service\obj\Debug\net8.0\SW.Service.AssemblyInfoInputs.cache
+C:\Olafv2\IC Portfolio Management\SW.Service\obj\Debug\net8.0\SW.Service.AssemblyInfo.cs
+C:\Olafv2\IC Portfolio Management\SW.Service\obj\Debug\net8.0\SW.Service.csproj.CoreCompileInputs.cache
+C:\Olafv2\IC Portfolio Management\SW.Service\bin\Debug\net8.0\SW.Service.deps.json
+C:\Olafv2\IC Portfolio Management\SW.Service\bin\Debug\net8.0\SW.Service.dll
+C:\Olafv2\IC Portfolio Management\SW.Service\bin\Debug\net8.0\SW.Service.pdb
+C:\Olafv2\IC Portfolio Management\SW.Service\bin\Debug\net8.0\SW.DataAccess.dll
+C:\Olafv2\IC Portfolio Management\SW.Service\bin\Debug\net8.0\SW.DataAccess.pdb
+C:\Olafv2\IC Portfolio Management\SW.Service\obj\Debug\net8.0\SW.Service.csproj.Up2Date
+C:\Olafv2\IC Portfolio Management\SW.Service\obj\Debug\net8.0\SW.Service.dll
+C:\Olafv2\IC Portfolio Management\SW.Service\obj\Debug\net8.0\refint\SW.Service.dll
+C:\Olafv2\IC Portfolio Management\SW.Service\obj\Debug\net8.0\SW.Service.pdb
+C:\Olafv2\IC Portfolio Management\SW.Service\obj\Debug\net8.0\ref\SW.Service.dll
+C:\Olaf API\API\SW.Service\bin\Debug\net8.0\SW.Service.deps.json
+C:\Olaf API\API\SW.Service\bin\Debug\net8.0\SW.Service.dll
+C:\Olaf API\API\SW.Service\bin\Debug\net8.0\SW.Service.pdb
+C:\Olaf API\API\SW.Service\bin\Debug\net8.0\SW.DataAccess.dll
+C:\Olaf API\API\SW.Service\bin\Debug\net8.0\SW.DataAccess.pdb
+C:\Olaf API\API\SW.Service\obj\Debug\net8.0\SW.Service.csproj.AssemblyReference.cache
+C:\Olaf API\API\SW.Service\obj\Debug\net8.0\SW.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olaf API\API\SW.Service\obj\Debug\net8.0\SW.Service.AssemblyInfoInputs.cache
+C:\Olaf API\API\SW.Service\obj\Debug\net8.0\SW.Service.AssemblyInfo.cs
+C:\Olaf API\API\SW.Service\obj\Debug\net8.0\SW.Service.csproj.CoreCompileInputs.cache
+C:\Olaf API\API\SW.Service\obj\Debug\net8.0\SW.Service.csproj.Up2Date
+C:\Olaf API\API\SW.Service\obj\Debug\net8.0\SW.Service.dll
+C:\Olaf API\API\SW.Service\obj\Debug\net8.0\refint\SW.Service.dll
+C:\Olaf API\API\SW.Service\obj\Debug\net8.0\SW.Service.pdb
+C:\Olaf API\API\SW.Service\obj\Debug\net8.0\ref\SW.Service.dll

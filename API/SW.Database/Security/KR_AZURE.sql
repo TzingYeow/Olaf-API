@@ -1,0 +1,2 @@
+﻿CREATE USER [KR_AZURE];
+

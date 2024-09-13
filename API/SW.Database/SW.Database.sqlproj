@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <Name>SW.Database</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>4.1</ProjectVersion>
+    <ProjectGuid>{3f3886b7-4a66-47df-aaef-7ae7f283ee67}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
+    <OutputType>Database</OutputType>
+    <RootPath>
+    </RootPath>
+    <RootNamespace>SW.Database</RootNamespace>
+    <AssemblyName>SW.Database</AssemblyName>
+    <ModelCollation>1033,CI</ModelCollation>
+    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <DeployToDatabase>True</DeployToDatabase>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetLanguage>CS</TargetLanguage>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SqlServerVerification>False</SqlServerVerification>
+    <IncludeCompositeObjects>True</IncludeCompositeObjects>
+    <TargetDatabaseSet>True</TargetDatabaseSet>
+    <DefaultCollation>SQL_Latin1_General_CP1_CI_AS</DefaultCollation>
+    <DefaultFilegroup>PRIMARY</DefaultFilegroup>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>ARM64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
+    <!-- Default to the v11.0 targets path if the targets file for the current VS version is not found -->
+    <SSDTExists Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets')">True</SSDTExists>
+    <VisualStudioVersion Condition="'$(SSDTExists)' == ''">11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Condition="'$(SQLDBExtensionsRefPath)' != ''" Project="$(SQLDBExtensionsRefPath)\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <ItemGroup>
+    <Folder Include="Properties" />
+    <Folder Include="dbo\" />
+    <Folder Include="dbo\Tables\" />
+    <Folder Include="dbo\Views\" />
+    <Folder Include="dbo\Functions\" />
+    <Folder Include="dbo\Stored Procedures\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\Mst_EmailReceiver.sql" />
+    <Build Include="dbo\Tables\MST_PR_RoadTripLink.sql" />
+    <Build Include="dbo\Tables\MST_TPTCountryPoint.sql" />
+    <Build Include="dbo\Tables\TXN_EmailQueue2.sql" />
+    <Build Include="dbo\Tables\Mst_Menu.sql" />
+    <Build Include="dbo\Tables\TXN_EmailQueue3.sql" />
+    <Build Include="dbo\Tables\Txn_Bonus.sql" />
+    <Build Include="dbo\Tables\ICDEACTIVATIONLIST.sql" />
+    <Build Include="dbo\Tables\REPORT_Subscriptions.sql" />
+    <Build Include="dbo\Tables\Courses_Grouping.sql" />
+    <Build Include="dbo\Tables\Courses_Module_Settings.sql" />
+    <Build Include="dbo\Tables\TXN_ReportingBadge_KR.sql" />
+    <Build Include="dbo\Tables\Courses_Users_Exclusion.sql" />
+    <Build Include="dbo\Tables\MST_PR_CustomBankInfo.sql" />
+    <Build Include="dbo\Tables\__MigrationHistory.sql" />
+    <Build Include="dbo\Tables\Courses_Users_results.sql" />
+    <Build Include="dbo\Tables\Mst_AdvancementCriteria.sql" />
+    <Build Include="dbo\Tables\Mst_SuspensionArchived.sql" />
+    <Build Include="dbo\Tables\Eloomi_Course_Categories.sql" />
+    <Build Include="dbo\Tables\Eloomi_Course_Categories_Archive.sql" />
+    <Build Include="dbo\Tables\RecruiterList_.sql" />
+    <Build Include="dbo\Tables\Eloomi_Course_Participants_Data.sql" />
+    <Build Include="dbo\Tables\TXN_WeeklyBASummary.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_Archive.sql" />
+    <Build Include="dbo\Tables\Eloomi_Course_Participants_Data_Archive.sql" />
+    <Build Include="dbo\Tables\TXN_AutoAdvancementResult2.sql" />
+    <Build Include="dbo\Tables\Eloomi_Courses_Data.sql" />
+    <Build Include="dbo\Tables\Mst_Bank.sql" />
+    <Build Include="dbo\Tables\Eloomi_Courses_Data_Archive.sql" />
+    <Build Include="dbo\Tables\Mst_Campaign.sql" />
+    <Build Include="dbo\Tables\Eloomi_Users_Data.sql" />
+    <Build Include="dbo\Tables\Mst_Country_Postcode.sql" />
+    <Build Include="dbo\Tables\Mst_ComplianceChecklist.sql" />
+    <Build Include="dbo\Tables\Mst_CountryCallCode_Currency.sql" />
+    <Build Include="dbo\Tables\Eloomi_Users_Data_Archive.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_Compliance.sql" />
+    <Build Include="dbo\Tables\Mst_CandidateApplication_Form1.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_BAInfo_Weekending.sql" />
+    <Build Include="dbo\Tables\Mst_IcOverview_Network.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractorLevel.sql" />
+    <Build Include="dbo\Tables\Mst_IcOverview_Headcount.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_Suspension.sql" />
+    <Build Include="dbo\Tables\Mst_MarketingCompany.sql" />
+    <Build Include="dbo\Tables\Mst_AutoAdvancementSales.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_SuspensionReason.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_BranchOut.sql" />
+    <Build Include="dbo\Tables\TXN_EmailQueue5.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_ReportingNoChanges.sql" />
+    <Build Include="dbo\Tables\Mst_Report.sql" />
+    <Build Include="dbo\Tables\Mst_MarketingCompany_Branch.sql" />
+    <Build Include="dbo\Tables\Mst_ReportRole.sql" />
+    <Build Include="dbo\Tables\Mst_RecruitmentCandidate_ActivityLog.sql" />
+    <Build Include="dbo\Tables\Mst_ReportCategory.sql" />
+    <Build Include="dbo\Tables\Mst_RecruitmentCandidate.sql" />
+    <Build Include="dbo\Tables\TXN_EmailQueue.sql" />
+    <Build Include="dbo\Tables\Mst_MarketingCompanyEmail.sql" />
+    <Build Include="dbo\Tables\Mst_RecruitmentCandidate_Assignment.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_Compliance_Archive.sql" />
+    <Build Include="dbo\Tables\TXN_EmailQueueArchive.sql" />
+    <Build Include="dbo\Tables\Mst_RecruitmentCandidate_Compliance.sql" />
+    <Build Include="dbo\Tables\MST_CountryPoint.sql" />
+    <Build Include="dbo\Tables\Mst_BAType.sql" />
+    <Build Include="dbo\Tables\Mst_RecruitmentCandidate_Induction.sql" />
+    <Build Include="dbo\Tables\Mst_MasterCode.sql" />
+    <Build Include="dbo\Tables\TXN_HUDDLE_RPT.sql" />
+    <Build Include="dbo\Tables\Mst_MarketingCompany_Campaign.sql" />
+    <Build Include="dbo\Tables\TXN_Validation.sql" />
+    <Build Include="dbo\Tables\TXN_ClientIdentification.sql" />
+    <Build Include="dbo\Tables\Mst_MarketingCompany_Staff.sql" />
+    <Build Include="dbo\Tables\Mst_MCExclusion.sql" />
+    <Build Include="dbo\Tables\Mst_SpecialAccessRole.sql" />
+    <Build Include="dbo\Tables\Mst_Recruiter.sql" />
+    <Build Include="dbo\Tables\Mst_RecruitmentComparisonSummary.sql" />
+    <Build Include="dbo\Tables\Mst_User.sql" />
+    <Build Include="dbo\Tables\TXN_ClientIdentification_20240122.sql" />
+    <Build Include="dbo\Tables\TXN_RegionalSalesBonus.sql" />
+    <Build Include="dbo\Tables\Mst_UserResetPasswordToken.sql" />
+    <Build Include="dbo\Tables\Mst_Localization.sql" />
+    <Build Include="dbo\Tables\TXN_TPTSummary.sql" />
+    <Build Include="dbo\Tables\Mst_UserRole.sql" />
+    <Build Include="dbo\Tables\Mst_Suspension_TempTable.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_EventHistory.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_Movement.sql" />
+    <Build Include="dbo\Tables\TXN_ICWeekendingStatus.sql" />
+    <Build Include="dbo\Tables\txn_Temp_ManualLastSalesDate.sql" />
+    <Build Include="dbo\Tables\Mst_MovementType.sql" />
+    <Build Include="dbo\Tables\TXN_AutoAdvancementResult.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_Assignment.sql" />
+    <Build Include="dbo\Tables\TXN_Temp_Starhub_CPQ.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_BadgeCard.sql" />
+    <Build Include="dbo\Tables\Sheet1.sql" />
+    <Build Include="dbo\Tables\Courses_Module_Settings_Backup.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_PayableTraining.sql" />
+    <Build Include="dbo\Tables\TXN_CampaignDocument.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_Saving.sql" />
+    <Build Include="dbo\Tables\HKBALeaderCount.sql" />
+    <Build Include="dbo\Tables\Reporting_Recruitment_Activity.sql" />
+    <Build Include="dbo\Tables\TXN_CampaignDocument_Archive.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_Training.sql" />
+    <Build Include="dbo\Tables\TXN_RegionalSalesSummary_UAT.sql" />
+    <Build Include="dbo\Tables\Mst_AutoAdvancementSales_Jenny.sql" />
+    <Build Include="dbo\Tables\Mst_Division.sql" />
+    <Build Include="dbo\Tables\MST_MCBATypeMapping.sql" />
+    <Build Include="dbo\Tables\Mst_DigitalFormRequiredField.sql" />
+    <Build Include="dbo\Tables\Mst_DigitalFormSettings.sql" />
+    <Build Include="dbo\Tables\Mst_RecruitmentCandidate_Archive.sql" />
+    <Build Include="dbo\Tables\TXN_PRBonus.sql" />
+    <Build Include="dbo\Tables\Mst_Weekending.sql" />
+    <Build Include="dbo\Tables\Mst_UploadFileHistory.sql" />
+    <Build Include="dbo\Tables\RPT_OverviewRecruitment.sql" />
+    <Build Include="dbo\Tables\Temp_ApplicationFormUrl.sql" />
+    <Build Include="dbo\Tables\Temp_ApplicationFormURLMO.sql" />
+    <Build Include="dbo\Tables\RPT_OverviewDigitalAppOldMethod.sql" />
+    <Build Include="dbo\Tables\MST_PR_Master.sql" />
+    <Build Include="dbo\Tables\RPT_OverviewDigitalAppNewdMethod.sql" />
+    <Build Include="dbo\Tables\Txn_AutoAdvancementConfirmation.sql" />
+    <Build Include="dbo\Tables\YT_Campaign.sql" />
+    <Build Include="dbo\Tables\YT_MarketingCompany.sql" />
+    <Build Include="dbo\Tables\MST_PR_Payout.sql" />
+    <Build Include="dbo\Tables\YT_User.sql" />
+    <Build Include="dbo\Tables\Mst_Channel.sql" />
+    <Build Include="dbo\Tables\RPT_OverviewDetailByCountry.sql" />
+    <Build Include="dbo\Tables\TXN_RegionalSalesSummary.sql" />
+    <Build Include="dbo\Tables\TXN_PR_Singapore.sql" />
+    <Build Include="dbo\Tables\TXN_OnfieldHeadcountHeader.sql" />
+    <Build Include="dbo\Tables\Mst_IndependentContractor_CheckIn.sql" />
+    <Build Include="dbo\Tables\TXN_PR_Incentive_Raw.sql" />
+    <Build Include="dbo\Tables\TXN_ClientIdentification2.sql" />
+    <Build Include="dbo\Tables\TXN_OnfieldHeadcountDetail.sql" />
+    <Build Include="dbo\Tables\TXN_PR_Detail.sql" />
+    <Build Include="dbo\Tables\TXN_ICWeekEndingStatus_Test.sql" />
+    <Build Include="dbo\Tables\TXN_PR_Incentive_Raw_Temp.sql" />
+    <Build Include="dbo\Functions\GetWeekendingDate.sql" />
+    <Build Include="dbo\Functions\GetNumbers.sql" />
+    <Build Include="dbo\Functions\StringSplit.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReport_LEO.sql" />
+    <Build Include="dbo\Stored Procedures\sp_Job_Send_PR_Wednesday.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetOnfieldHeadcount.sql" />
+    <Build Include="dbo\Stored Procedures\sp_Job_Send_PR_Monday_Restart.sql" />
+    <Build Include="dbo\Stored Procedures\RPT_PRIncentive_Historical.sql" />
+    <Build Include="dbo\Stored Procedures\SP_UpdateOFHCRow.sql" />
+    <Build Include="dbo\Stored Procedures\SP_PushAutoAdvancement.sql" />
+    <Build Include="dbo\Stored Procedures\sp_Job_Send_PR_Wednesday_Restart.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReportIndia.sql" />
+    <Build Include="dbo\Stored Procedures\RPT_PRIncentive2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendReminderMail_LEO.sql" />
+    <Build Include="dbo\Stored Procedures\sp_Job_Send_PR_Wednesday_Hub_Restart.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendReminderMail5.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetAllIndependentContractor.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_TeamPerformanceTracking_WeDate.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendReminderMail2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AutoAdvancement_DataPull_MY_SAM.sql" />
+    <Build Include="dbo\Stored Procedures\SP_SP_AutoAdvancement_Process.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RegionalSales.sql" />
+    <Build Include="dbo\Stored Procedures\SP_PushAutoAdvancement_Ticket.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_SuspensionOverview.sql" />
+    <Build Include="dbo\Stored Procedures\SP_SGG_Charity_LocationReports.sql" />
+    <Build Include="dbo\Stored Procedures\RPT_PRIncentive3.sql" />
+    <Build Include="dbo\Stored Procedures\RPT_AdvancementReport.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetAllIcsMissingInformation.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetIndividualIcMissingInformation.sql" />
+    <Build Include="dbo\Stored Procedures\SP_UpdateIcMissingInformationFlag.sql" />
+    <Build Include="dbo\Stored Procedures\FindText.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetNextBadgeNo.sql" />
+    <Build Include="dbo\Stored Procedures\SP_TestMcNextBadgeNo.sql" />
+    <Build Include="dbo\Stored Procedures\SP_BAInfo_Stamp.sql" />
+    <Build Include="dbo\Stored Procedures\RPT_AdvancementBADetailReport.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetOnfieldHeadcount2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetDigitalFormSettings.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OnfieldHC.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OlafSuspensionByMC.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OlafUserCountryList.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_TPTReport_TL.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AddOrUpdateIcCompliance.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OlafUserMCList.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_TPTReport.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_TeamPerformanceTracking.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OlafSuspensionList.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RegionalRecruitmentCandidate.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_THWeeklyEventHuddleReport.sql" />
+    <Build Include="dbo\Stored Procedures\SP_PRIncentive_Stamping.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AddOrUpdateLocalization.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_IndependentContractorList.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_TeamPerformanceTracking_WeDate2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AutoAdvancement_ToCleanup.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_Starhub_GetTransactionDetailsListing.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_Starhub_UpdateTransactionDetails.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_Mobile_LeadsMaster_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetAllIndependentContractor2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_Mobile_LeadsMasterSummary_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\ss_User_MobileAttendancePunching.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_StarHub_GetWeekendingAdjustmentDetails.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetDigitalFormSettings2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_Get_Street_Name_StarHub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Suspension_OtherAccess.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_GetSalesSummaryPlanDetailsById_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Suspension_RegionalAccess.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_LeadAssigned_by_DistrictId.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICPushStatusMail.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ProcessOlafAutoAdvancement.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_Mobile_GetPayout_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_SalesDuringSuspension_RegionalAccess.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_UpdateSubmissionPlan_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_SalesDuringSuspension_OtherAccess.sql" />
+    <Build Include="dbo\Stored Procedures\SP_StampAutoAdvancement.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetIndependentContractorHeadCount.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Load_ExistingLocation_ForDistrict.sql" />
+    <Build Include="dbo\Stored Procedures\RPT_PRIncentive_Historical_SAM.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetIndependentContractor.sql" />
+    <Build Include="dbo\Stored Procedures\SP_MCAllocationsBA_Assignment_StarHub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReport_SGHeadcount.sql" />
+    <Build Include="dbo\Stored Procedures\RPT_AdvancementBADetailReport2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetOverlapedCharityCampaign.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Starhub_LeadsAssignment_Listing.sql" />
+    <Build Include="dbo\Stored Procedures\SP_PRIncentive_Stamping_SGTEMP.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendReminderMail_SG_NextDayReminder.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReportOps.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_GetSalesSubmissionListing_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReportPass3Week_SGHeadcount.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendReminderMail_SG.sql" />
+    <Build Include="dbo\Stored Procedures\SP_CleanOlafData.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_DailyHuddleReportOps.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetCPQUploadValidationMessage_StarHUB.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReport.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendedUpdate_SG.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_IndependentContractorList_Regional.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_GetRejectReasonById_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\DB_DD.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReportWithLocaltion.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_GetTransactionSearchByID_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendDeactivationReminderMail_SG_NextDayReminder.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_CampaignAssignment.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReport_BulletinPoint.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendDeactivationReminderMail_SG.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetCPQListing.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReportPass3Week_BulletinPoint.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetCPQListingValidation.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendReminderMail.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RegionalBusiness_charity.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendDeactivationReminderMail.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RegionalBusiness_commercial.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetAppointment_Backup.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReport_BulletinPoint2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICSuspendedUpdate.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AutoAdvancement_DataPull_Indo.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OnfieldHC_ByDateRange.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetAppointmentFormSetup.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReport_SGHeadcount2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_GetAppointment.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RegionalBusiness_commercial2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_SGBARecordsMaster.sql" />
+    <Build Include="dbo\Stored Procedures\SP_SGBARecordsChanges.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ICCampaignSuspension.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_IndependentContractorList_Regional2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_TeamPerformanceTracking2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_ManualImportSGLastSalesDateReport.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RegionalBusiness_charity_summary.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_TeamPerformanceTracking_Test.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OlafICSuspensionList_RegionalAccess.sql" />
+    <Build Include="dbo\Stored Procedures\SP_HOCDate.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_GetTransactionSearchListing_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_TransactionChangeStatus_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Commercial_CPQSaveAndSubmit_Starhub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OlafICSuspensionList_OtherAccess.sql" />
+    <Build Include="dbo\Stored Procedures\SP_EloomiStatus.sql" />
+    <Build Include="dbo\Stored Procedures\SP_SaveValidationResult.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OlafAdvancementReport_RegionalAccess.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RegionalSales_SG.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OlafAdvancementReport_OtherAccess.sql" />
+    <Build Include="dbo\Stored Procedures\SP_CH_RPT_IndiaHuddleRaw.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Regional_Detailed_IC_SAM.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Adoption_OverviewRecruitment.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Regional_Detailed_RC_SAM.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Regional_Summary.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Regional_Overview_PBI.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReport2.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Regional_Overview_Aged.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Regional_Overview.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Adoption_OverviewRecruitmentMonthly.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_IndependentContractorList_OtherAccess.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Regional_Detailed_RC.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Adoption_OverviewRecruitmentQuater.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Regional_Detailed_IC.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AutoAdvancement_DataPull_HK.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Regional_Detailed.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RecruitmentCandidate_Regional.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Regional_Aged.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RecruitmentCandidate.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AutoAdvancement_DataPull_KR.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Adoption_OverviewDigitalAppOldMethod.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_MOAdmin_Summary.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Adoption_OverviewDigitalAppOldMonthly.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_MOAdmin_Overview.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AutoAdvancement_DataPull_MY.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Adoption_OverviewDigitalAppNewMonthly.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_MOAdmin_Detailed_RC.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_MOAdmin_Detailed_IC.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AutoAdvancement_DataPull_TH.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_SGSuspensionList.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AutoAdvancement_DataPull_TW.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Adoption_OverviewDigitalAppOldQuater.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_MOAdmin_Detailed.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Adoption_OverviewDigitalAppNewQuater.sql" />
+    <Build Include="dbo\Stored Procedures\SP_Agent_RCAnalysis_FirstRun.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Adoption_OverviewDigitalAppNewMethod.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Country_Summary.sql" />
+    <Build Include="dbo\Stored Procedures\SP_AGENT_ProcessAdoptionRate.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Country_Overview.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_WeeklyHuddleReportPass3Week.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_Adoption_OverviewCountryDetail.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Country_Detailed_RC.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Country_Detailed_IC.sql" />
+    <Build Include="dbo\Stored Procedures\SP_PRIncentive_Stamping_Restart.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_RCAnalysis_Country_Detailed.sql" />
+    <Build Include="dbo\Stored Procedures\RPT_PRIncentive.sql" />
+    <Build Include="dbo\Stored Procedures\sp_Job_Send_PR_Wednesday_Hub.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_HOFReport.sql" />
+    <Build Include="dbo\Stored Procedures\SP_RPT_OlafAdvancementReport_RegionalAccess_SAM.sql" />
+    <Build Include="dbo\Stored Procedures\sp_Job_Send_PR_Monday.sql" />
+    <Build Include="dbo\Stored Procedures\SP_HOCLocation.sql" />
+  </ItemGroup>
+</Project>

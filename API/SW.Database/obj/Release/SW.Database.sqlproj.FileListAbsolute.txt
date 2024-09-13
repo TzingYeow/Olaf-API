@@ -1,0 +1,12 @@
+C:\Olafv2\IC Portfolio Management\SW.Database\bin\Release\SW.Database.dacpac
+C:\Olafv2\IC Portfolio Management\SW.Database\bin\Release\SW.Database.dll
+C:\Olafv2\IC Portfolio Management\SW.Database\bin\Release\SW.Database.pdb
+C:\Olafv2\IC Portfolio Management\SW.Database\obj\Release\SW.Database.sqlproj.AssemblyReference.cache
+C:\Olafv2\IC Portfolio Management\SW.Database\obj\Release\SW.Database.dll
+C:\Olafv2\IC Portfolio Management\SW.Database\obj\Release\SW.Database.pdb
+C:\Olaf API\API\SW.Database\bin\Release\SW.Database.dacpac
+C:\Olaf API\API\SW.Database\bin\Release\SW.Database.dll
+C:\Olaf API\API\SW.Database\bin\Release\SW.Database.pdb
+C:\Olaf API\API\SW.Database\obj\Release\SW.Database.sqlproj.AssemblyReference.cache
+C:\Olaf API\API\SW.Database\obj\Release\SW.Database.dll
+C:\Olaf API\API\SW.Database\obj\Release\SW.Database.pdb

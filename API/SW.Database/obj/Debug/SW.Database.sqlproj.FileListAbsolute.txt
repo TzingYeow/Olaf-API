@@ -1,0 +1,16 @@
+C:\Olafv2\IC Portfolio Management\SW.Database\bin\Debug\SW.Database.dacpac
+C:\Olafv2\IC Portfolio Management\SW.Database\bin\Debug\SW.Database.dll
+C:\Olafv2\IC Portfolio Management\SW.Database\bin\Debug\SW.Database.pdb
+C:\Olafv2\IC Portfolio Management\SW.Database\obj\Debug\SW.Database.sqlproj.AssemblyReference.cache
+C:\Olafv2\IC Portfolio Management\SW.Database\obj\Debug\SW.Database.dll
+C:\Olafv2\IC Portfolio Management\SW.Database\obj\Debug\SW.Database.pdb
+C:\Olafv2\IC Portfolio Management\SW.Database\obj\Debug\Model.xml
+C:\Olafv2\IC Portfolio Management\SW.Database\obj\Debug\refactor.xml
+C:\Olafv2\IC Portfolio Management\SW.Database\obj\Debug\postdeploy.sql
+C:\Olafv2\IC Portfolio Management\SW.Database\obj\Debug\predeploy.sql
+C:\Olaf API\API\SW.Database\bin\Debug\SW.Database.dacpac
+C:\Olaf API\API\SW.Database\bin\Debug\SW.Database.dll
+C:\Olaf API\API\SW.Database\bin\Debug\SW.Database.pdb
+C:\Olaf API\API\SW.Database\obj\Debug\SW.Database.sqlproj.AssemblyReference.cache
+C:\Olaf API\API\SW.Database\obj\Debug\SW.Database.dll
+C:\Olaf API\API\SW.Database\obj\Debug\SW.Database.pdb

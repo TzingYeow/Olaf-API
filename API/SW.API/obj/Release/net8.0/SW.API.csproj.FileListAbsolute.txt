@@ -1,0 +1,205 @@
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\appsettings.Development.json
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\appsettings.json
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\SW.API.exe
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\SW.API.deps.json
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\SW.API.runtimeconfig.json
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\SW.API.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\SW.API.pdb
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Azure.Core.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Azure.Identity.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.Abstractions.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.HierarchyId.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.SqlServer.Types.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Serilog.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Serilog.Extensions.Logging.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Serilog.Sinks.Console.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Serilog.Sinks.File.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\System.Memory.Data.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\de\Microsoft.SqlServer.Types.resources.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\es\Microsoft.SqlServer.Types.resources.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\it\Microsoft.SqlServer.Types.resources.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\SW.DataAccess.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\SW.Service.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\SW.Service.pdb
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\SW.DataAccess.pdb
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.csproj.AssemblyReference.cache
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.AssemblyInfoInputs.cache
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.AssemblyInfo.cs
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.csproj.CoreCompileInputs.cache
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\staticwebassets.build.json
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\staticwebassets.development.json
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\staticwebassets\msbuild.SW.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\staticwebassets\msbuild.build.SW.API.props
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.SW.API.props
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.SW.API.props
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\staticwebassets.pack.json
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\scopedcss\bundle\SW.API.styles.css
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.csproj.Up2Date
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.dll
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\refint\SW.API.dll
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.pdb
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\SW.API.genruntimeconfig.cache
+C:\Olafv2\IC Portfolio Management\SW.API\obj\Release\net8.0\ref\SW.API.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\appsettings.UAT.json
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\AutoMapper.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\IdentityModel.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\IdentityServer4.AccessTokenValidation.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Olafv2\IC Portfolio Management\SW.API\bin\Release\net8.0\Serilog.Extensions.Hosting.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\appsettings.Development.json
+C:\Olaf API\API\SW.API\bin\Release\net8.0\appsettings.json
+C:\Olaf API\API\SW.API\bin\Release\net8.0\appsettings.UAT.json
+C:\Olaf API\API\SW.API\bin\Release\net8.0\libman.json
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.API.exe
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.API.deps.json
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.API.runtimeconfig.json
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.API.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.API.pdb
+C:\Olaf API\API\SW.API\bin\Release\net8.0\AutoMapper.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Azure.Core.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Azure.Identity.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\IdentityModel.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\IdentityServer4.AccessTokenValidation.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.Abstractions.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.HierarchyId.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.SqlServer.Types.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Serilog.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Serilog.Extensions.Hosting.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Serilog.Extensions.Logging.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Serilog.Sinks.Console.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Serilog.Sinks.File.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\System.Memory.Data.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\de\Microsoft.SqlServer.Types.resources.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\es\Microsoft.SqlServer.Types.resources.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\it\Microsoft.SqlServer.Types.resources.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.API.Model.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.DataAccess.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.Service.dll
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.API.Model.pdb
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.DataAccess.pdb
+C:\Olaf API\API\SW.API\bin\Release\net8.0\SW.Service.pdb
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.csproj.AssemblyReference.cache
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.AssemblyInfoInputs.cache
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.AssemblyInfo.cs
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.csproj.CoreCompileInputs.cache
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Olaf API\API\SW.API\obj\Release\net8.0\staticwebassets.build.json
+C:\Olaf API\API\SW.API\obj\Release\net8.0\staticwebassets.development.json
+C:\Olaf API\API\SW.API\obj\Release\net8.0\staticwebassets\msbuild.SW.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Olaf API\API\SW.API\obj\Release\net8.0\staticwebassets\msbuild.build.SW.API.props
+C:\Olaf API\API\SW.API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.SW.API.props
+C:\Olaf API\API\SW.API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.SW.API.props
+C:\Olaf API\API\SW.API\obj\Release\net8.0\staticwebassets.pack.json
+C:\Olaf API\API\SW.API\obj\Release\net8.0\scopedcss\bundle\SW.API.styles.css
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.csproj.Up2Date
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.dll
+C:\Olaf API\API\SW.API\obj\Release\net8.0\refint\SW.API.dll
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.pdb
+C:\Olaf API\API\SW.API\obj\Release\net8.0\SW.API.genruntimeconfig.cache
+C:\Olaf API\API\SW.API\obj\Release\net8.0\ref\SW.API.dll

@@ -1,0 +1,87 @@
+2024-05-31 1:52:17 PM	This log contains information about the import schema operation into project 'SW.Database' on computer 'SWMYNB088' by user 'tzingyeow.yap'.
+2024-05-31 1:52:17 PM	Import of database schema has started.
+2024-05-31 1:52:23 PM	Gathering database credentials
+2024-05-31 1:52:23 PM	Gathering database options
+2024-05-31 1:52:23 PM	Gathering generic database scoped configuration option
+2024-05-31 1:52:23 PM	Gathering users
+2024-05-31 1:52:23 PM	Gathering roles
+2024-05-31 1:52:23 PM	Gathering application roles
+2024-05-31 1:52:23 PM	Gathering role memberships
+2024-05-31 1:52:23 PM	Gathering filegroups
+2024-05-31 1:52:23 PM	Gathering full-text catalogs
+2024-05-31 1:52:23 PM	Gathering assemblies
+2024-05-31 1:52:23 PM	Gathering certificates
+2024-05-31 1:52:23 PM	Gathering asymmetric keys
+2024-05-31 1:52:23 PM	Gathering symmetric keys
+2024-05-31 1:52:23 PM	Gathering encrypted symmetric keys
+2024-05-31 1:52:23 PM	Gathering schemas
+2024-05-31 1:52:23 PM	Gathering XML schema collections
+2024-05-31 1:52:23 PM	Gathering user-defined data types
+2024-05-31 1:52:23 PM	Gathering user-defined types
+2024-05-31 1:52:23 PM	Gathering table types
+2024-05-31 1:52:23 PM	Gathering unique keys for table types
+2024-05-31 1:52:23 PM	Gathering primary keys for table types
+2024-05-31 1:52:23 PM	Gathering indexes for table types
+2024-05-31 1:52:24 PM	Gathering check constraints for table types
+2024-05-31 1:52:24 PM	Gathering default constraints for table types
+2024-05-31 1:52:24 PM	Gathering partition functions
+2024-05-31 1:52:24 PM	Gathering partition schemes
+2024-05-31 1:52:24 PM	Gathering functions
+2024-05-31 1:52:24 PM	Gathering encrypted functions
+2024-05-31 1:52:24 PM	Gathering aggregates
+2024-05-31 1:52:24 PM	Gathering procedures
+2024-05-31 1:52:25 PM	Gathering encrypted procedures
+2024-05-31 1:52:25 PM	Gathering tables
+2024-05-31 1:52:25 PM	Gathering primary keys
+2024-05-31 1:52:25 PM	Gathering unique constraints
+2024-05-31 1:52:25 PM	Gathering foreign keys
+2024-05-31 1:52:25 PM	Gathering default constraints
+2024-05-31 1:52:25 PM	Gathering check constraints
+2024-05-31 1:52:25 PM	Gathering views
+2024-05-31 1:52:25 PM	Gathering encrypted views
+2024-05-31 1:52:25 PM	Gathering indexes
+2024-05-31 1:52:25 PM	Gathering statistics
+2024-05-31 1:52:25 PM	Gathering full-text index stoplists
+2024-05-31 1:52:25 PM	Gathering search property lists
+2024-05-31 1:52:25 PM	Gathering search properties
+2024-05-31 1:52:25 PM	Gathering full-text indexes
+2024-05-31 1:52:25 PM	Gathering column store indexes
+2024-05-31 1:52:25 PM	Gathering spatial indexes
+2024-05-31 1:52:25 PM	Gathering XML indexes
+2024-05-31 1:52:25 PM	Gathering Selective XML indexes
+2024-05-31 1:52:25 PM	Gathering encrypted triggers
+2024-05-31 1:52:25 PM	Gathering triggers
+2024-05-31 1:52:25 PM	Gathering encrypted and clr ddl triggers
+2024-05-31 1:52:25 PM	Gathering ddl triggers
+2024-05-31 1:52:25 PM	Creating edge constraints
+2024-05-31 1:52:25 PM	Gathering synonyms
+2024-05-31 1:52:25 PM	Gathering defaults
+2024-05-31 1:52:25 PM	Gathering data constraint uddt bindings
+2024-05-31 1:52:25 PM	Gathering rules
+2024-05-31 1:52:25 PM	Gathering data constraint uddt bindings
+2024-05-31 1:52:25 PM	Gathering message types
+2024-05-31 1:52:25 PM	Gathering queues
+2024-05-31 1:52:25 PM	Gathering contracts
+2024-05-31 1:52:25 PM	Gathering services
+2024-05-31 1:52:25 PM	Gathering event notifications
+2024-05-31 1:52:25 PM	Gathering remote service bindings
+2024-05-31 1:52:25 PM	Gathering broker priorities
+2024-05-31 1:52:25 PM	Gathering signatures
+2024-05-31 1:52:25 PM	Gathering compression options
+2024-05-31 1:52:25 PM	Gathering sequence types
+2024-05-31 1:52:25 PM	Gathering security policies
+2024-05-31 1:52:25 PM	Gather column encryption keys
+2024-05-31 1:52:25 PM	Gathering column master keys
+2024-05-31 1:52:25 PM	Gathering external data sources
+2024-05-31 1:52:25 PM	Gathering external file formats
+2024-05-31 1:52:25 PM	Gathering external tables
+2024-05-31 1:52:25 PM	Gathering extended properties
+2024-05-31 1:52:25 PM	Gathering assemblies
+2024-05-31 1:52:25 PM	Gathering credentials
+2024-05-31 1:52:25 PM	Gathering logins
+2024-05-31 1:52:26 PM	Gathering server audits
+2024-05-31 1:52:27 PM	Scanning project for duplicate elements
+2024-05-31 1:52:27 PM	Finished duplicate element processing
+2024-05-31 1:52:30 PM	Finished importing database.
+2024-05-31 1:52:30 PM	A summary of the import was saved to the following location: C:\Olafv2\IC Portfolio Management\SW.Database\Import Schema Logs\SW.Database_20240531055217.log
+2024-05-31 1:52:30 PM	Click Finish to continue...

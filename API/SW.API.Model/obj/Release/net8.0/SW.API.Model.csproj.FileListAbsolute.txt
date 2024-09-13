@@ -1,0 +1,11 @@
+C:\Olaf API\API\SW.API.Model\bin\Release\net8.0\SW.API.Model.deps.json
+C:\Olaf API\API\SW.API.Model\bin\Release\net8.0\SW.API.Model.dll
+C:\Olaf API\API\SW.API.Model\bin\Release\net8.0\SW.API.Model.pdb
+C:\Olaf API\API\SW.API.Model\obj\Release\net8.0\SW.API.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olaf API\API\SW.API.Model\obj\Release\net8.0\SW.API.Model.AssemblyInfoInputs.cache
+C:\Olaf API\API\SW.API.Model\obj\Release\net8.0\SW.API.Model.AssemblyInfo.cs
+C:\Olaf API\API\SW.API.Model\obj\Release\net8.0\SW.API.Model.csproj.CoreCompileInputs.cache
+C:\Olaf API\API\SW.API.Model\obj\Release\net8.0\SW.API.Model.dll
+C:\Olaf API\API\SW.API.Model\obj\Release\net8.0\refint\SW.API.Model.dll
+C:\Olaf API\API\SW.API.Model\obj\Release\net8.0\SW.API.Model.pdb
+C:\Olaf API\API\SW.API.Model\obj\Release\net8.0\ref\SW.API.Model.dll

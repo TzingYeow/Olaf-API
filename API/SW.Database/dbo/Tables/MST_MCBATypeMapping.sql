@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[MST_MCBATypeMapping] (
+    [ID]     INT IDENTITY (1, 1) NOT NULL,
+    [MCType] INT NULL,
+    [BAType] INT NULL,
+    CONSTRAINT [PK_MST_MCBATypeMapping] PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+

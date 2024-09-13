@@ -1,0 +1,36 @@
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\bin\Release\net8.0\SW.DataAccess.deps.json
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\bin\Release\net8.0\SW.DataAccess.runtimeconfig.json
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\bin\Release\net8.0\SW.DataAccess.dll
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\bin\Release\net8.0\SW.DataAccess.pdb
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\bin\Release\net8.0\SW.Database.dll
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\bin\Release\net8.0\SW.Database.pdb
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.csproj.AssemblyReference.cache
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.AssemblyInfoInputs.cache
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.AssemblyInfo.cs
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.csproj.CoreCompileInputs.cache
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\EFCoreSqlServerHierarchyId.cs
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\SW.DataA.3573E91C.Up2Date
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.dll
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\refint\SW.DataAccess.dll
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.pdb
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.genruntimeconfig.cache
+C:\Olafv2\IC Portfolio Management\SW.DataAccess\obj\Release\net8.0\ref\SW.DataAccess.dll
+C:\Olaf API\API\SW.DataAccess\bin\Release\net8.0\SW.DataAccess.deps.json
+C:\Olaf API\API\SW.DataAccess\bin\Release\net8.0\SW.DataAccess.runtimeconfig.json
+C:\Olaf API\API\SW.DataAccess\bin\Release\net8.0\SW.DataAccess.dll
+C:\Olaf API\API\SW.DataAccess\bin\Release\net8.0\SW.DataAccess.pdb
+C:\Olaf API\API\SW.DataAccess\bin\Release\net8.0\SW.Database.dll
+C:\Olaf API\API\SW.DataAccess\bin\Release\net8.0\SW.Database.pdb
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.csproj.AssemblyReference.cache
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.AssemblyInfoInputs.cache
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.AssemblyInfo.cs
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.csproj.CoreCompileInputs.cache
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\EFCoreSqlServerHierarchyId.cs
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\SW.DataA.3573E91C.Up2Date
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.dll
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\refint\SW.DataAccess.dll
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.pdb
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\SW.DataAccess.genruntimeconfig.cache
+C:\Olaf API\API\SW.DataAccess\obj\Release\net8.0\ref\SW.DataAccess.dll

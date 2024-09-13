@@ -1,0 +1,25 @@
+﻿CREATE TABLE [dbo].[RPT_OverviewDigitalAppOldMethod] (
+    [WeDate]         DATE            NOT NULL,
+    [R_Hongkong]     INT             NULL,
+    [R_Indonesia]    INT             NULL,
+    [R_India]        INT             NULL,
+    [R_Korea]        INT             NULL,
+    [R_Malaysia]     INT             NULL,
+    [R_Philippines]  INT             NULL,
+    [R_Singapore]    INT             NULL,
+    [R_Thailand]     INT             NULL,
+    [R_Taiwan]       INT             NULL,
+    [MC_Hongkong]    INT             NULL,
+    [MC_Indonesia]   INT             NULL,
+    [MC_India]       INT             NULL,
+    [MC_Korea]       INT             NULL,
+    [MC_Malaysia]    INT             NULL,
+    [MC_Philippines] INT             NULL,
+    [MC_Singapore]   INT             NULL,
+    [MC_Thailand]    INT             NULL,
+    [MC_Taiwan]      INT             NULL,
+    [TotalJotForm]   INT             NULL,
+    [TotalMC]        INT             NULL,
+    [Average]        DECIMAL (18, 2) NULL
+);
+

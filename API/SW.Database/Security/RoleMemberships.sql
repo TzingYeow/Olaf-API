@@ -1,0 +1,258 @@
+﻿ALTER ROLE [db_owner] ADD MEMBER [newsa];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\appmy_myapppprod];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\see360uat];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\See360PROD];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SQLAgent_PROD];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_MYDB];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_IDDB];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_PHDB];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_OLAF];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_SGDB];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_HKDB];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_THDB];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_TakafulAPI];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_AcwireAPI];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_TWDB];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\syafiqah.manah];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_360];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\siukching.tan];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_INDB];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\sasitharan.sellaiah];
+
+
+GO
+ALTER ROLE [db_owner] ADD MEMBER [APPCO\SA_PROD_TASKS];
+
+
+GO
+ALTER ROLE [db_ddladmin] ADD MEMBER [APPCO\SA_PROD_SGDB];
+
+
+GO
+ALTER ROLE [db_ddladmin] ADD MEMBER [APPCO\SA_PROD_HKDB];
+
+
+GO
+ALTER ROLE [db_ddladmin] ADD MEMBER [APPCO\SA_PROD_THDB];
+
+
+GO
+ALTER ROLE [db_ddladmin] ADD MEMBER [APPCO\SA_PROD_TakafulAPI];
+
+
+GO
+ALTER ROLE [db_ddladmin] ADD MEMBER [APPCO\SA_PROD_AcwireAPI];
+
+
+GO
+ALTER ROLE [db_ddladmin] ADD MEMBER [APPCO\SA_PROD_TWDB];
+
+
+GO
+ALTER ROLE [db_ddladmin] ADD MEMBER [APPCO\syafiqah.manah];
+
+
+GO
+ALTER ROLE [db_ddladmin] ADD MEMBER [APPCO\siukching.tan];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_MYDB];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_IDDB];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_PHDB];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_OLAF];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_SGDB];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_HKDB];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_THDB];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_TakafulAPI];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_AcwireAPI];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_TWDB];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\syafiqah.manah];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_OAUTH];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_360];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\SA_PROD_INDB];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\sweewee.sim];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\tajulzaid.tajuddin];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [APPCO\ravifrancis];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [SupportUser];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [it_support];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [KR_AZURE];
+
+
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [BI_User];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_MYDB];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_IDDB];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_PHDB];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_OLAF];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_SGDB];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_HKDB];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_THDB];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_TakafulAPI];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_AcwireAPI];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_TWDB];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\syafiqah.manah];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_OAUTH];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_360];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\SA_PROD_INDB];
+
+
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [APPCO\tajulzaid.tajuddin];
+
